@@ -52,7 +52,8 @@ $.getJSON({
   timeline
       .fromTo('h1', {
           opacity: 0,
-          y: -20,
+          y: -50,
+
       },
       {
           
